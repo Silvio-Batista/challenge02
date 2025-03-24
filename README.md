@@ -57,5 +57,3 @@ Um arquivo chamado `output.json` com uma estrutura como esta:
 - Não recomendado para uso contínuo ou de alta frequência sem controle de taxa (*rate limiting*).
 
 ---
-
-Se quiser automatizar isso com agendamento (tipo rodar toda sexta à noite) ou adaptar para outras categorias (tipo carnes, snacks, etc), é só pedir.

@@ -1,0 +1,17 @@
+{
+  "name": "challenge02",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "puppeteer": "^24.4.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
